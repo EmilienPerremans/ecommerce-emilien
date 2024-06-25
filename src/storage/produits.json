@@ -1,0 +1,131 @@
+[
+	{
+		"id": 1,
+		"name": "Armure de Chevalier en Acier",
+		"photo": "./img/produits/Armure de Chevalier en Acier.jpeg",
+		"description": "Armure complète de chevalier en acier brillant. Inclut casque, plastron, épaulières, brassards et jambières.",
+		"catégorie": "Armure",
+		"prix": "2999"
+	},
+	{
+		"id": 2,
+		"name": "Armure de Guerrier Viking",
+		"photo": "./img/produits/Armure de Guerrier Viking.jpeg",
+		"description": "Armure viking robuste en métal avec détails en cuir. Comprend casque à cornes et protection pour le torse.",
+		"catégorie": "Armure",
+		"prix": "2499"
+	},
+	{
+		"id": 3,
+		"name": "Armure de Samouraï Traditionnelle",
+		"photo": "./img/produits/Armure de Samouraï Traditionnelle.jpeg",
+		"description": "Armure traditionnelle de samouraï en laque noire avec détails dorés. Comprend casque Kabuto et plastron.",
+		"catégorie": "Armure",
+		"prix": "3599"
+	},
+	{
+		"id": 4,
+		"name": "Épée Légendaire Excalibur",
+		"photo": "./img/produits/Épée Légendaire Excalibur.jpeg",
+		"description": "Réplique de l'épée légendaire Excalibur, forgée en acier trempé avec poignée en cuir. Taille unique.",
+		"catégorie": "Épée",
+		"prix": "899"
+	},
+	{
+		"id": 5,
+		"name": "Épée des Ténèbres",
+		"photo": "./img/produits/Épée des Ténèbres.jpeg",
+		"description": "Épée mystique des Ténèbres, ornée de motifs gravés et gemmes rouges. Idéale pour les champions du mal.",
+		"catégorie": "Épée",
+		"prix": "1499"
+	},
+	{
+		"id": 6,
+		"name": "Épée du Dragon Noir",
+		"photo": "./img/produits/Épée du Dragon Noir.jpeg",
+		"description": "Épée puissante du Dragon Noir, forgée dans un alliage rare et incrustée de cristaux magiques. Taille unique.",
+		"catégorie": "Épée",
+		"prix": "2499"
+	},
+	{
+		"id": 7,
+		"name": "Bottes de Chevalier en Cuir",
+		"photo": "./img/produits/Bottes de Chevalier en Cuir.jpeg",
+		"description": "Bottes de chevalier robustes en cuir véritable, avec semelle antidérapante et détails de métal. Tailles disponibles.",
+		"catégorie": "Bottes",
+		"prix": "399"
+	},
+	{
+		"id": 8,
+		"name": "Bottes de Lutteur de l'Arène",
+		"photo": "./img/produits/Bottes de Lutteur de l'Arène.jpeg",
+		"description": "Bottes de lutteur de l'arène en cuir souple, ornées de lanières et de clous métalliques. Conçues pour la victoire.",
+		"catégorie": "Bottes",
+		"prix": "299"
+	},
+	{
+		"id": 9,
+		"name": "Bottes de Conquérant Viking",
+		"photo": "./img/produits/Bottes de Conquérant Viking.jpeg",
+		"description": "Bottes de conquérant viking en cuir tanné, robustes et prêtes pour les raids maritimes. Tailles variées.",
+		"catégorie": "Bottes",
+		"prix": "449"
+	},
+	{
+		"id": 10,
+		"name": "Armure de Gardien Légendaire",
+		"photo": "./img/produits/Armure de Gardien Légendaire.jpeg",
+		"description": "Armure du Gardien Légendaire, forgée dans l'acier d'argent et ornée de symboles anciens. Taille ajustable.",
+		"catégorie": "Armure",
+		"prix": "3999"
+	},
+	{
+		"id": 11,
+		"name": "Épée du Roi Dragon",
+		"photo": "./img/produits/Épée du Roi Dragon.jpeg",
+		"description": "Épée du Roi Dragon, forgée dans les flammes des montagnes interdites. Décorée de joyaux rares et mystiques.",
+		"catégorie": "Épée",
+		"prix": "2999"
+	},
+	{
+		"id": 12,
+		"name": "Bottes de Chevalier Noir",
+		"photo": "./img/produits/Bottes de Chevalier Noir.jpeg",
+		"description": "Bottes de chevalier noir en cuir sombre, renforcées de plaques d'acier. Parfaites pour l'ombre et la discrétion.",
+		"catégorie": "Bottes",
+		"prix": "599"
+	},
+	{
+		"id": 13,
+		"name": "Armure du Chevalier des Cieux",
+		"photo": "./img/produits/Armure du Chevalier des Cieux.jpeg",
+		"description": "Armure sacrée du Chevalier des Cieux, bénie par les anciens dieux. Protège des fléaux célestes.",
+		"catégorie": "Armure",
+		"prix": "4999"
+	},
+	{
+		"id": 14,
+		"name": "Épée du Phoenix",
+		"photo": "./img/produits/Épée du Phoenix.jpeg",
+		"description": "Épée du Phoenix, forgée dans les cendres et les plumes de l'oiseau légendaire. Symbole de renaissance et de pouvoir.",
+		"catégorie": "Épée",
+		"prix": "3499"
+	},
+	{
+		"id": 15,
+		"name": "Bottes de Guerrier du Feu",
+		"photo": "./img/produits/Bottes de Guerrier du Feu.jpeg",
+		"description": "Bottes de guerrier du feu, imprégnées de l'énergie ardente des volcans. Fabriquées pour la résistance au feu et au magma.",
+		"catégorie": "Bottes",
+		"prix": "799"
+	},
+	{
+		"id": 16,
+		"name": "Armure de Champion Élémentaire",
+		"photo": "./img/produits/Armure de Champion Élémentaire.jpeg",
+		"description": "Armure de champion élémentaire, fusion de métal et de cristaux magiques. Protège contre les forces de la nature.",
+		"catégorie": "Armure",
+		"prix": "5799"
+	}
+]
+		

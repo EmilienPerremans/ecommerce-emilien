@@ -1,0 +1,124 @@
+// Importation de Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// Styles spécifiques à la page d'accueil
+.Accueil {
+	text-align: center;
+	margin-top: 20px;
+}
+
+// Styles pour la présentation du produit
+#affiche {
+	width: 65%;
+	margin: 0 auto; // Centrer horizontalement
+}
+
+.presentation {
+	text-align: center;
+	margin-top: 20px;
+}
+
+// Styles pour les cartes de produit individuel
+.card-link {
+	text-decoration: none;
+}
+
+.card-link:hover {
+	text-decoration: none;
+}
+
+.card-link:visited {
+	text-decoration: none;
+}
+
+.card {
+	background-color: beige;
+	height: 90%;
+	padding: 20px;
+
+	.card-title {
+		background-color: white;
+		border-radius: 8px;
+		height: 150px;
+		text-align: center;
+		justify-content: center;
+		margin-bottom: 20px;
+		padding: 15px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+		transition: transform 0.3s ease-in-out;
+	
+		&:hover {
+			transform: translateY(-5px); // Animation de léger soulèvement au survol
+		}
+	}
+
+	.card-img {
+		height: 100%;
+		width: 100%;
+	}
+}
+
+.category {
+	background-color: green;
+}
+
+.prix {
+	font-weight: bold;
+}
+
+// Styles pour les lignes de produit (utilisation dans une grille)
+.rowcarte {
+	text-align: justify;
+	margin-top: 20px;
+}
+
+// Styles pour la section du panier
+.Panier {
+	text-align: justify;
+	margin-top: 20px;
+}
+
+#Total {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#Total span {
+	color: red;
+	font-size: 1.2em;
+}
+
+// Styles généraux pour les boutons
+.btn {
+	font-size: 1rem;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+
+	&:hover {
+		background-color: #007bff;
+		color: #fff;
+	}
+}
+
+// Styles pour les titres de section
+.section-title {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+// Styles pour les formulaires
+.form-control {
+	margin-bottom: 15px;
+}
+
+// Media queries pour la réactivité
+@media (max-width: 768px) {
+	#affiche {
+		width: 100%;
+	}
+}
